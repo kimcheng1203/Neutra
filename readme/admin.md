@@ -163,3 +163,43 @@ unlock: Unlock a channel.
 
 unmute: Unmute muted users.
 ```
+
+### Voice
+
+#### Module for voice permissions. (10 Commands)
+
+```yaml
+bind: Bind music commands to a channel.
+
+djlock: Lock the music module to DJs.
+
+djrole: Manage the DJ role.
+
+djs: Show the server djs.
+
+djunlock: Unlock the music module.
+
+unbind: Unbind music commands from a channel.
+
+vckick: Kick users from a voice channel.
+
+vcmove: Move a user from a voice channel.
+
+vcpurge: Kick all users from a voice channel.
+
+vctransfer: Transfer users into a new channel.
+```
+
+### Server
+
+#### Module for server management (4 Commands)
+
+```yaml
+cleanup: Clean up bot command usage.
+
+emoji: Manage server emojis.
+
+purge: Purge any type of content.
+
+role: Role management commands.
+```
