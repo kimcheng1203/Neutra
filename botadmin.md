@@ -1,4 +1,4 @@
-# bot owner
+# bot admin
 
 ## Categories
 
