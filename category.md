@@ -1,24 +1,6 @@
 
 # ;ø÷lvvi.u Moderation & Stat Tracking Discord Bot
 
-### [Bot Invite Link](https://discord.com/oauth2/authorize?client_id=813275073459912725&scope=bot+applications.commands&permissions=956689622)
-
-### [Support Server](https://discord.gg/H2qTG4yxqb)
-
-### [DiscordBots.gg](https://discord.bots.gg/bots/806953546372087818)
-
-### [Top.gg](https://top.gg/bot/806953546372087818)
-
-## Overview
-
-Hello! I'm ;ø÷lvvi.u, and I specialize in tracking and moderation.
-I was designed to collect all sorts of data on servers, users,
-messages, emojis, online time, and more! I also come with a fast
-and clean moderation system that offers every opportunity for effective
-server management. Apart from moderation and tracking, I feature 351
-commands across 27 categories that provide awesome utilities!
-Some examples include managing roles and logging server actions.
-
 ## Categories
 
 ##### [Admin](#Admin-1)
