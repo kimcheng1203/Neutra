@@ -2,12 +2,6 @@
 
 ## Categories
 
-##### [Admin](#Admin-1)
-
-##### [Animals](#Animals-1)
-
-##### [Automod](#Automod-1)
-
 ##### [Botadmin](#Botadmin-1)
 
 ##### [Botconfig](#Botconfig-1)
