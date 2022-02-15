@@ -54,7 +54,7 @@
 
 ##### [Utility](#Utility-1)
 
-### Admin
+## Admin
 
 #### Module for server administration. (13 Commands)
 
