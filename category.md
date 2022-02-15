@@ -1,6 +1,3 @@
-
-# ;ø÷lvvi.u Moderation & Stat Tracking Discord Bot
-
 ## Categories
 
 ##### [Admin](#Admin-1)
