@@ -203,3 +203,57 @@ purge: Purge any type of content.
 
 role: Role management commands.
 ```
+
+### Stats
+
+#### Module for server statistics (24 Commands)
+
+```yaml
+admins: Show the server admins.
+
+channelinfo: Get info about a channel.
+
+emojiinfo: Get info about an emoji.
+
+emojistats: Emoji usage tracking.
+
+emojiusage: Get usage stats on an emoji.
+
+emptyroles: Show roles that have no users.
+
+firstjoins: Show the first users to join.
+
+joined: Check when a user joined the server.
+
+joinedatpos: Show who joined at a position.
+
+joinpos: Show the join position of a user.
+
+lastjoins: Show the latest users to join.
+
+listbots: Shows all the server's bots.
+
+listchannels: Show the server's channels.
+
+listroles: Show an embed of all server roles.
+
+mods: Show the server moderators.
+
+permissions: Show a user's permissions.
+
+rolecall: Counts the users with a role.
+
+rolecount: Counts the roles on the server.
+
+roleinfo: Get information on a role.
+
+roleperms: Show the permissions for a role.
+
+serverinfo: Show server information.
+
+topic: Show the topic of a channel.
+
+userinfo: Show information on a user.
+
+whohas: Show the people who have a role.
+```
