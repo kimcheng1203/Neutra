@@ -160,3 +160,21 @@ print: None
 size: Just try it and see.
 ```
 
+### Monitor
+
+#### Module for monitoring bot status. (6 Commands)
+
+```yaml
+bothealth: Show bot health.
+
+logger: View logging files.
+
+objgrowth: Debug memory leaks.
+
+pm2: View pm2 files.
+
+threadinfo: Show bot threadinfo.
+
+todo: Manage the bot's todo list.
+```
+
