@@ -105,3 +105,58 @@ table: Show info on a db table.
 
 update: Update the database.
 ```
+
+### Manager
+
+#### Manage bot processes and cogs. (18 Commands)
+
+```yaml
+botvars: Reload the bot variables.
+
+cleartrace: Clear the console.
+
+do: Repeat a command.
+
+elapse: Time a command response.
+
+eval: Evaluate python code.
+
+git: Run github commands.
+
+load: Load an extension.
+
+ras: Reload all settings modules.
+
+rau: Reload all utilities modules.
+
+reboot: Cleanly reboot the bot.
+
+refresh: A faster way of rebooting.
+
+reload: Reload an extension.
+
+reloadall: Reload all extensions.
+
+reloadsetting: Reload a utilities module.
+
+reloadutil: Reload a utilities module.
+
+sh: Run shell commands.
+
+sudo: Run a command as another user.
+
+unload: Unload an extension.
+```
+
+### Misc
+
+#### (3 Commands)
+
+```yaml
+define: None
+
+print: None
+
+size: Just try it and see.
+```
+
