@@ -123,3 +123,43 @@ unlog: Disable specific logging events.
 unlogchannel: Remove the server logging channel.
 ```
 
+
+### Mod
+
+#### Moderate server users. (17 Commands)
+
+```yaml
+addrole: Add multiple roles to a user.
+
+ban: Ban users from the server.
+
+blind: Hide a channel from a user.
+
+block: Restrict users from sending messages.
+
+kick: Kick users from the server.
+
+lock: Prevent messages in a channel.
+
+mute: Mute users for a duration.
+
+removerole: Remove multiple roles to a user.
+
+slowmode: Set the slowmode for a channel
+
+softban: Softban users from the server.
+
+tempban: Temporarily ban users.
+
+temprole: Temporarily add roles to users.
+
+unban: Unban a previously banned user.
+
+unblind: Reallow users see a channel.
+
+unblock: Reallow users to send messages.
+
+unlock: Unlock a channel.
+
+unmute: Unmute muted users.
+```
