@@ -54,9 +54,7 @@
 
 ##### [Utility](#Utility-1)
 
-## Admin
-
-#### Module for server administration. (13 Commands)
+## Admin #### Module for server administration. (13 Commands)
 
 ```yaml
 kill: Have the bot leave the server.
