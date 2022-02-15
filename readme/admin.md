@@ -102,3 +102,24 @@ dumpwarns: DMs you a file of server warns.
 
 readme: DMs you my readme file.
 ```
+
+### Logging
+
+#### Manage the logging system (7 Commands)
+
+```yaml
+editsnipe: Snipe an edited message.
+
+find: Find any user using a search.
+
+log: Enable specific logging events.
+
+logchannel: Set your server's logging channel.
+
+snipe: Snipe a deleted message.
+
+unlog: Disable specific logging events.
+
+unlogchannel: Remove the server logging channel.
+```
+
