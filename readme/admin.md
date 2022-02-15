@@ -55,3 +55,17 @@ warncount: Count the warnings a user has.
 warns: Display the server warnlist.
 ```
 
+### Config
+
+#### Configure the permission system. (4 Commands)
+
+```yaml
+disable: Disable commands for users, roles, and channels.
+
+enable: Enable commands for users, roles, and channels.
+
+ignore: Ignore channels, roles, and users.
+
+unignore: Unignore channels, users, and roles.
+```
+
