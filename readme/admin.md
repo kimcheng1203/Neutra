@@ -69,3 +69,36 @@ ignore: Ignore channels, roles, and users.
 unignore: Unignore channels, users, and roles.
 ```
 
+### Files
+
+#### Module for downloading files. (14 Commands)
+
+```yaml
+dumpbans: DMs you a file of server bans.
+
+dumpbots: DMs you a file of server bots.
+
+dumpcategories: DMs you a file of voice channels.
+
+dumpchannels: DMs you a file of text channels.
+
+dumpemotes: DMs you a file of server emojis.
+
+dumphelp: DMs you a file of commands.
+
+dumphumans: DMs you a file of server humans.
+
+dumpmessages: DMs you a file of channel messages.
+
+dumproles: DMs you a file of server roles.
+
+dumpsettings: DMs you a file of server settings.
+
+dumpusers: DMs you a file of server members.
+
+dumpvoicechannels: DMs you a file of voice channels.
+
+dumpwarns: DMs you a file of server warns.
+
+readme: DMs you my readme file.
+```
