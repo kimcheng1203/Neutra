@@ -88,3 +88,20 @@ unblacklist: Unblacklist discord objects.
 write: Write to the bot overview or changelog.
 ```
 
+### Database
+
+#### Module for handling the database (6 Commands)
+
+```yaml
+database: Show the database schema.
+
+discard: Discard the data on a server.
+
+postgres: Show info on the database.
+
+sql: Run sql and get results in rst fmt.
+
+table: Show info on a db table.
+
+update: Update the database.
+```
